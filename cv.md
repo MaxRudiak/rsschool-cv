@@ -29,6 +29,24 @@
 
 ## Образование
 
-- **Март. - Июнь 2021** — EPAM Training Centre, Минск, Беларусь
+- **Март - Июнь 2021** — EPAM Training Centre, Минск, Беларусь
 - **Сент. - Дек. 2020** — It-academy HTP (Java Core), Минск, Беларусь
-- **2014-2016** — Белорусский Государственный Университет, Институт бизнеса и менеджмента технологий, Минск, Беларусь
+- **2014 - 2016** — Белорусский Государственный Университет, Институт бизнеса и менеджмента технологий, Минск, Беларусь
+
+## Навыки
+
+- Java
+- Spring Framework (Core, Boot, MVC, Data, Security)
+- JPA, Hibernate
+- JDBC, PostgreSQL, MySQL
+- Gradle, Maven
+- JUnit, Mockito
+- Docker
+- Git
+- Jenkins
+- REST, SOAP
+- AWS
+
+## Языки
+
+- **English:** Upper-Intermediate (B2)
